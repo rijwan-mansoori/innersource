@@ -7,7 +7,7 @@ For your repositories to flourish, it's important that people know they exist! H
 - Make sure your idea behind the solution and your vision are clearly written down. It helps if people know not only what the repository is _for_, but where it came from and where it's going. 
 
 ### Sharing 
-- Tell users to star your repo if they find it interesting.
+-  Innersouce repo
 - If you have a blog or mailing list, use it. Once your repository is ready, send an announcement your subscribers.
 - Share it on relevant internal networks. Invite people to check out your website and GitHub repository.
 - Reach out to others who keep interest in your work area and see if they can proactively communicate about your repo.
